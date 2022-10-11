@@ -1,0 +1,3 @@
+waymo-open-dataset-tf-2-6-0
+tf-nightly
+open3d
